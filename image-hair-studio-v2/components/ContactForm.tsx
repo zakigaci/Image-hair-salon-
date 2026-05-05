@@ -10,7 +10,7 @@ type Status = 'idle' | 'submitting' | 'sent' | 'error';
 // 2. New form → enter the salon owner's email
 // 3. Copy the ID (e.g. "xpwzgrkj") and paste it below
 // Every booking lands directly in the owner's inbox.
-const FORMSPREE_ID = 'YOUR_FORM_ID';
+const FORMSPREE_ID = 'mzdogekb';
 // ───────────────────────────────────────────────────────────────────────────
 
 export default function ContactForm() {
