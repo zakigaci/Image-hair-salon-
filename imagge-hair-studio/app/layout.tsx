@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   title: 'Image Hair Studio — Galway',
   description:
     'A boutique hair studio on St Augustine Street, Galway. Precision cuts, considered colour, and quiet luxury — by appointment.',
-  metadataBase: new URL('https://imagehairstudio.ie'),
+  metadataBase: ,
   openGraph: {
     title: 'Image Hair Studio — Galway',
     description:
