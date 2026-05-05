@@ -9,7 +9,7 @@ module.exports = {
       colors: {
         // Brand palette — strict
         ink: '#1A1A1A',        // primary text / headers
-        cream: 'F0EDE8',      // background — warmer, slightly darker
+        cream: 'C9A0A0',      // background — warmer, slightly darker
         walnut: '#6B4B2A',     // secondary / accents / CTAs
         sand: '#D8CFC4',       // neutral sections
         // Subtle supporting tones derived from the palette
