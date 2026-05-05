@@ -101,7 +101,7 @@ export default function ContactForm() {
         >
           {status === 'submitting' ? 'Sending...' : 'Send Booking Request'}
           <span aria-hidden className="transition-transform duration-500 group-hover:translate-x-1">
-            ->
+            {'->'}
           </span>
         </button>
 
