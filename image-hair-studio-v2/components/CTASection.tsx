@@ -77,7 +77,7 @@ export default function CTASection() {
               <div className="text-sm text-cream/90 leading-relaxed">
                 (091) 535 921
                 <br />
-                hello@imagehairstudio.ie
+                Emailclient.com
               </div>
             </div>
           </div>
